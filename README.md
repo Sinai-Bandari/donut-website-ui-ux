@@ -18,36 +18,36 @@ Each screen represents a different donut flavor while following the same design 
 to ensure consistency and clarity.
 
 ## Design Process
-1. Understanding the design objective
-2. Creating structured layouts
-3. Applying color theory for each flavor
-4. Designing high-fidelity UI screens
-5. Creating a clickable prototype in Figma
+1. Understanding the design objective  
+2. Creating structured layouts  
+3. Applying color theory for each flavor  
+4. Designing high-fidelity UI screens  
+5. Creating a clickable prototype in Figma  
 
 ## Tools Used
-- Figma
-- Wireframing
-- Prototyping
-- Color theory
-- Visual hierarchy
+- Figma  
+- Wireframing  
+- Prototyping  
+- Color theory  
+- Visual hierarchy  
 
 ## Screens
-![Strawberry Donut](01-Strawberry Frame.png)
-![Blueberry Donut](02-Blueberry Frame.png)
-![Chocolate Donut](03-Chocolate Frame.png)
+![Strawberry Donut](Strawberry%20Frame.png)  
+![Blueberry Donut](Blueberry%20Frame.png)  
+![Chocolate Donut](Chocolate%20Frame.png)  
 
 ## Prototype Link
 [Figma Prototype](https://www.figma.com/proto/J4tArOXDlGQ6G7jLxoXkpR/Donut-Website)
 
 ## Learnings
-- Improved understanding of color theory for food branding
-- Learned how to maintain UI consistency across multiple screens
-- Gained hands-on experience with Figma prototyping
+- Improved understanding of color theory for food branding  
+- Learned how to maintain UI consistency across multiple screens  
+- Gained hands-on experience with Figma prototyping  
 
 ## Future Improvements
-- Add user flow between donut screens
-- Conduct basic user testing
-- Improve accessibility and contrast
+- Add user flow between donut screens  
+- Conduct basic user testing  
+- Improve accessibility and contrast  
 
 ## Author
 Sinai
