@@ -32,9 +32,9 @@ to ensure consistency and clarity.
 - Visual hierarchy
 
 ## Screens
-![Strawberry Donut](01-Strawberry.png)
-![Blueberry Donut](02-Blueberry.png)
-![Chocolate Donut](03-Chocolate.png)
+![Strawberry Donut](01-Strawberry Frame.png)
+![Blueberry Donut](02-Blueberry Frame.png)
+![Chocolate Donut](03-Chocolate Frame.png)
 
 ## Prototype Link
 [Figma Prototype](https://www.figma.com/proto/J4tArOXDlGQ6G7jLxoXkpR/Donut-Website)
