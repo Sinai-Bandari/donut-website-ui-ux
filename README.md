@@ -37,7 +37,7 @@ to ensure consistency and clarity.
 ![Chocolate Donut](Chocolate%20Frame.png)  
 
 ## Prototype Link
-[Figma Prototype](https://www.figma.com/proto/J4tArOXDlGQ6G7jLxoXkpR/Donut-Website)
+[Figma Prototype](https://www.figma.com/proto/J4tArOXDlGQ6G7jLxoXkpR/Donut-Website?node-id=0-9&t=DaO8kjl3v2IbZ6Xr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A9)
 
 ## Learnings
 - Improved understanding of color theory for food branding  
