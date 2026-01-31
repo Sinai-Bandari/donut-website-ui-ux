@@ -1,47 +1,53 @@
-# Donut Website – UI/UX Case Study 🍩
+# Donut Website UI/UX Design 🍩
 
 ## Overview
 This project is a UI/UX design case study for a donut website created using Figma.
-The goal was to design a clean, visually appealing, and user-friendly website for dessert lovers.
+The focus of this project is to explore visual design, consistency, and user-friendly layouts
+by designing different donut variants.
 
-## Problem Statement
-Many food websites feel cluttered and confusing. This project focuses on clarity,
-visual hierarchy, and smooth user flow.
+## Project Goal
+To create visually appealing donut screens that maintain consistency in layout while using
+color theory and visual hierarchy to highlight different flavors.
 
-## Target Users
-- Young customers
-- Working professionals
-- Users who prefer quick and simple browsing
+## Donut Screens
+- Strawberry Donut
+- Blueberry Donut
+- Chocolate Donut
+
+Each screen represents a different donut flavor while following the same design structure
+to ensure consistency and clarity.
 
 ## Design Process
-1. Understanding the problem
-2. Wireframing
-3. High-fidelity UI design
-4. Prototyping in Figma
+1. Understanding the design objective
+2. Creating structured layouts
+3. Applying color theory for each flavor
+4. Designing high-fidelity UI screens
+5. Creating a clickable prototype in Figma
 
 ## Tools Used
 - Figma
-- Color theory
 - Wireframing
 - Prototyping
+- Color theory
+- Visual hierarchy
 
 ## Screens
-![Home](01-Home.png)
-![Menu](02-Menu.png)
-![Product](03-Product.png)
+![Strawberry Donut](01-Strawberry.png)
+![Blueberry Donut](02-Blueberry.png)
+![Chocolate Donut](03-Chocolate.png)
 
 ## Prototype Link
 [Figma Prototype](https://www.figma.com/proto/J4tArOXDlGQ6G7jLxoXkpR/Donut-Website)
 
 ## Learnings
-- Improved understanding of color theory
-- Gained experience with prototyping
-- Learned to design user-friendly layouts
+- Improved understanding of color theory for food branding
+- Learned how to maintain UI consistency across multiple screens
+- Gained hands-on experience with Figma prototyping
 
 ## Future Improvements
-- Conduct user testing
-- Improve accessibility
-- Add more interaction states
+- Add user flow between donut screens
+- Conduct basic user testing
+- Improve accessibility and contrast
 
 ## Author
 Sinai
